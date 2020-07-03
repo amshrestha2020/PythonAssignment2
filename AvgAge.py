@@ -3,11 +3,6 @@
 'Calculate the average age, skipping over any None values.'
 'Print out each name, followed by old or young if they are above or below the average age.'
 
-# d = {
-#      {'first_name' : 'Asim', 'last_name' : 'Sharma', 'age' : 35},
-#      {'first_name' : 'Michael', 'last_name' : 'Jackson', 'age' : 20},
-#      {'first_name' : 'Ram', 'last_name' : 'Giri', 'age' : None}
-# }
 
 'Added one None age'
 names = [("Asim", "Sherpa", 35), ("Michael", "Jackson", 20), ("Bhairab", "Giri", None)]
